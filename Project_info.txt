@@ -1,4 +1,5 @@
-Project Title: Student Portal
-Team Members :Sana Bibi ,Maryam Sarfaraz
-Course :SCM LAB
-Status:In Progress
+Project Title: Student Library Portal
+Team Members: Sana Bibi ,Maryam Sarfarz
+Course :SCM Lab
+Status:In progress
+
