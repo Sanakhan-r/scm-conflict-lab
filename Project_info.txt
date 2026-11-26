@@ -1,5 +1,5 @@
 Project Title: Student Library Portal
 Team Members: Sana Bibi,Maryam sarfaraz 
 Course :SCM Lab
-Status:Completed and archived
+Status:Done and archived
 
